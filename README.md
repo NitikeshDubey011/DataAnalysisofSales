@@ -1,0 +1,1 @@
+Cleaning, analysis and transformation of data is done in this project. Three models have been tried on this so far i.e. KNN, SVM and Linear Regression out of which KNN model delivered the most precise outputs. 
